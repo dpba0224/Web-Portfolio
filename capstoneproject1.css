@@ -1,3 +1,8 @@
 *{
-	font-family: Lato, Arial;
+	font-family: Raleway, Arial;
+	scroll-behavior: smooth;
+}
+
+.primnarynav{
+	background-color: #203520;
 }
